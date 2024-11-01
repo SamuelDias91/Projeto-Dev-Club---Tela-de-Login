@@ -1,6 +1,6 @@
 <h1>Tela de Login e Sign-Up<h1/>
 
-<h2>Projeto criado pelo DevClub<h2/>
+<h2>Projeto criado usando a didática do Dev Club<h2/>
 
 <p>Criado usando as tecnologias:</p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
